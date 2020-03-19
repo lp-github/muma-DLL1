@@ -1,0 +1,4 @@
+﻿  CMDEXPLAINER.cpp
+D:\vsrepos\Dll1\CMDEXPLAINER.cpp(47,74): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\vsrepos\Dll1\CMDEXPLAINER.cpp(119,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Dll1.vcxproj -> D:\vsrepos\Dll1\x64\Debug\DLL1.dll
